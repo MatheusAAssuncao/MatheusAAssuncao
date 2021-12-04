@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello!! 👋
 
 - 🔭 I’m currently working on backend projects mainly using PHP.
 - 🌱 I’m currently learning Clean Code techniques +_+
+
+<p dir="auto"><a href="https://www.instagram.com/mathematheus/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:matheus.tba@hotmail.com"><img src="https://camo.githubusercontent.com/4ecffd937dda06e57f08227f1fb3dcbd43eb763eb1915cf872d301adf443dfed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f75746c6f6f6b2d626c75653f7374796c653d666c6174266c6f676f3d4d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/-Outlook-blue?style=flat&amp;logo=Mail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAAssuncao&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
@@ -10,9 +13,6 @@
 </div>
   <br>
 <div> 
-  <a href="https://www.instagram.com/mathematheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus.tba@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-assun%C3%A7%C3%A3o93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MatheusAAssuncao/MatheusAAssuncao/blob/output/github-contribution-grid-snake.svg)
  
