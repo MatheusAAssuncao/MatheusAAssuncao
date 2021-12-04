@@ -5,9 +5,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAAssuncao&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/>
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAAssuncao&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+  <br>
 <div> 
   <a href="https://www.instagram.com/mathematheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.tba@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
