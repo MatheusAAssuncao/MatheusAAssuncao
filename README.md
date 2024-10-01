@@ -6,7 +6,7 @@
 <p dir="auto">
   <a href="https://www.linkedin.com/in/matheus-assun%C3%A7%C3%A3o93/" rel="nofollow">LinkedIn</a>
   <a href="mailto:matheus.tba@hotmail.com">E-mail</a>
-  <a href="matheusassuncao.com">Website</a>
+  <a href="https://matheusassuncao.com">Website</a>
 </p>
 
 <div align="center">
